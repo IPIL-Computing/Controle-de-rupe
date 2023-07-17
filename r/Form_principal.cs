@@ -62,7 +62,7 @@ namespace r
         //====================botões da barra de cima============
         private void pb_fechar_Click_1(object sender, EventArgs e)
         {
- Application.Exit();
+            Close();
         }
         private void pb_minizar_Click_1(object sender, EventArgs e)
         {
